@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 5220,
+  "articles": [
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Lawrence Bonk",
+          "title": "FaceTime is coming to Apple TV",
+          "description": "Apple took to the stage at WWDC today to announce that video-calling service FaceTime is finally coming to Apple TV hardware for the first time, thanks to a robust tvOS update. This seems to be a full-featured version of the company’s proprietary live-streami…",
+          "url": "https://www.engadget.com/facetime-is-coming-to-apple-tv-182616297.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/OP4V49nWliwex8FNeS4znw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/d7a751f0-03cd-11ee-bafe-64583ec6cced.cf.jpg",
+          "publishedAt": "2023-06-05T18:26:16Z",
+          "content": "Apple took to the stage at WWDC today to announce that video-calling service FaceTime is finally coming to Apple TV hardware for the first time, thanks to a robust tvOS update. This seems to be a ful… [+1465 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Katie Malone",
+          "title": "Apple announces kid-friendly features to reduce eye strain",
+          "description": "Apple gave a look at updates targeted at reducing eye strain for kids during its annual WWDC on Monday. The feature comes after Apple initially previewed more health and accessibility features for Global Accessibility Awareness Day in May.Follow all of the ne…",
+          "url": "https://www.engadget.com/apple-kid-friendly-features-reduce-eye-strain-wwdc-182620428.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/zRkma_bv4Xs1LTPcMF1Igw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3a504730-03ce-11ee-afcb-9088a85d21ad.cf.jpg",
+          "publishedAt": "2023-06-05T18:26:20Z",
+          "content": "Apple gave a look at features targeted at reducing eye strain for kids during its annual WWDC on Monday. The feature comes after Apple initially previewed more health and accessibility features for G… [+1083 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Kris Holt",
+          "title": "The Apple Watch embraces widgets again in watchOS 10",
+          "description": "Your Apple Watch will look very different in the near future. Among the many announcements Apple made during its WWDC keynote was one related to watchOS 10. As expected, the company is giving the smartwatch user interface an overhaul as part of perhaps the fi…",
+          "url": "https://www.engadget.com/the-apple-watch-embraces-widgets-again-in-watchos-10-180838970.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/1zF.x3IGvevlOkGuZE107g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/cbde9dc0-03cc-11ee-bffe-c8224860e34c.cf.jpg",
+          "publishedAt": "2023-06-05T18:08:38Z",
+          "content": "Your Apple Watch will look very different in the near future. Among the many announcements Apple made during its WWDC keynote was one related to watchOS 10. As expected, the company is giving the sma… [+931 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Kris Holt",
+          "title": "Apple WWDC 2023 keynote: Watch it here at 1PM ET",
+          "description": "It's WWDC time, folks. Apple's Worldwide Developers Conference kicks off today with a keynote that's sure to be full of big news. We'll have full coverage of everything you need to know from the event right here on Engadget, along with immediate reactions to …",
+          "url": "https://www.engadget.com/apple-wwdc-2023-keynote-watch-it-here-at-1pm-et-150024806.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/CmDNT9xA7DWvSrvaEvz4fw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/cfa4ea00-015a-11ee-a6ed-34ab3f9e94e2.cf.jpg",
+          "publishedAt": "2023-06-05T15:00:24Z",
+          "content": "It's WWDC time, folks. Apple's Worldwide Developers Conference kicks off today with a keynote that's sure to be full of big news. We'll have full coverage of everything you need to know from the even… [+1130 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Sam Rutherford",
+          "title": "The Vision Pro is Apple's long-awaited AR/VR headset",
+          "description": "The Apple headset is one of the company's most anticipated products with leaks and rumors dating back to 2017. But after years of speculation, today at WWDC 2023 Apple has finally given us a real look at the device that it's now calling the Vision Pro.Created…",
+          "url": "https://www.engadget.com/the-vision-pro-is-apples-long-awaited-arvr-headset-182725385.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xg916QCR1udXOKAxtciFEg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/0e439340-03ce-11ee-abfe-77d16c2ad82f.cf.jpg",
+          "publishedAt": "2023-06-05T18:27:25Z",
+          "content": "The Apple headset is one of the company's most anticipated products with leaks and rumors dating back to 2017. But after years of speculation, today at WWDC 2023 Apple has finally given us a real loo… [+1453 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Amy Skorheim",
+          "title": "15-inch laptops compared: Apple MacBook Air 15, Dell XPS 15 and ASUS ZenBook Pro 15",
+          "description": "During the keynote at Apple's Worldwide Developers Conference, rumors about a new 15-inch MacBook Air were confirmed with the announcement of the company's latest lightweight laptop. The new model adds two inches to the screen, which means if all you want is …",
+          "url": "https://www.engadget.com/15-inch-laptops-compared-apple-macbook-air-15-dell-xps-15-and-asus-zenbook-pro-15-174656484.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/DHTxJt3A7t1c.4OmSSEC.A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/d7ffb9e0-03c7-11ee-9ffc-de3a241fce96.cf.jpg",
+          "publishedAt": "2023-06-05T17:46:56Z",
+          "content": "During the keynote at Apple's Worldwide Developers Conference, rumors about a new 15-inch MacBook Air were confirmed with the announcement of the company's latest lightweight laptop. The new model ad… [+2594 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Katie Malone",
+          "title": "Apple previews new accessibility features, including a way to clone your voice",
+          "description": "Apple gave a look at its latest accessibility updates during its annual WWDC on Monday, including new voice and and assistive tech features, that will launch with iOS 17. For iOS users with cognitive disabilities, Apple's new Assistive Access features lets pe…",
+          "url": "https://www.engadget.com/apple-new-accessibility-features-wwdc-assistive-tech-personal-voice-182842341.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/lOHn_gC_VPa.iRPgFMgiCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-07/45407b80-fe2d-11ec-bff7-0c60d0f6c78e.cf.jpg",
+          "publishedAt": "2023-06-05T18:28:42Z",
+          "content": "Apple gave a look at its latest accessibility updates during its annual WWDC on Monday, including new voice and and assistive tech features, that will launch with iOS 17. \r\nFor iOS users with cogniti… [+1092 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Nathan Ingraham",
+          "title": "iPadOS 17 gets a customizable lock screen, interactive widgets and Apple Health",
+          "description": "As usual, Apple is unveiling a major set of updates for iPadOS. This year, we're on to iPadOS 17, and as usual it features a host of changes that have already been shown of for the iPhone in iOS 17, plus some updates specific to the tablet. For starters, widg…",
+          "url": "https://www.engadget.com/ipados-17-gets-a-customizable-lock-screen-interactive-widgets-and-apple-health-174748297.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/VEVBdGYgCviVHz.3LsZsIw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/d11bcf60-03c7-11ee-bbbd-96599b609ef8.cf.jpg",
+          "publishedAt": "2023-06-05T17:47:48Z",
+          "content": "As usual, Apple is unveiling a major set of updates for iPadOS. This year, we're on to iPadOS 17, and as usual it features a host of changes that have already been shown of for the iPhone in iOS 17, … [+1738 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Kris Holt",
+          "title": "iOS 17 drops support for iPhone 8 and X",
+          "description": "Like clockwork, Apple will release the latest operating systems for its various products this fall. And, as ever, the company will leave some older generations of its devices by the wayside. If you're still clinging onto an iPhone 8 (that thing was great, so …",
+          "url": "https://www.engadget.com/ios-17-drops-support-for-iphone-8-and-x-200718892.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Z._GZ0aBHjqIUipHr4TMUQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/1b861530-03da-11ee-b97d-3cbf1276a224.cf.jpg",
+          "publishedAt": "2023-06-05T20:07:18Z",
+          "content": "Like clockwork, Apple will release the latest operating systems for its various products this fall. And, as ever, the company will leave some older generations of its devices by the wayside. \r\nIf you… [+2396 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Jon Fingas",
+          "title": "'Death Stranding: Director's Cut' is coming to the Mac",
+          "description": "Apple's efforts to bring high-profile games to the Mac appear to be paying off. Hideo Kojima has revealed that Death Stranding: Director's Cut is coming to the Mac later this year. Future Kojima Productions games will be available on the platform, too. There'…",
+          "url": "https://www.engadget.com/death-stranding-directors-cut-is-coming-to-the-mac-175801242.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/92nTWwvG9_uQvJrxvJBkbA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-05/f256fe50-d855-11ec-b76e-b3c56bdb8bbd.cf.jpg",
+          "publishedAt": "2023-06-05T17:58:01Z",
+          "content": "Apple's efforts to bring high-profile games to the Mac appear to be paying off. Hideo Kojima has revealed that Death Stranding: Director's Cut is coming to the Mac later this year. Future Kojima Prod… [+1084 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Kris Holt",
+          "title": "Apple’s third-gen AirPods have dropped back down to $149",
+          "description": "Apple’s WWDC kicks off today\r\n and the company may well reveal some fresh Macs\r\n. Before you pick up one of those, though, you may be looking to snag some new AirPods. As it happens, several models are on sale, including the third-gen AirPods. Those have drop…",
+          "url": "https://www.engadget.com/apples-third-gen-airpods-have-dropped-back-down-to-149-144926943.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/75qeFwWUIF2U4nmBsFvXvQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-10/3f4428f0-359a-11ec-bfde-032bea08da59.cf.jpg",
+          "publishedAt": "2023-06-05T14:49:26Z",
+          "content": "Apples WWDC kicks off today\r\n and the company may well reveal some fresh Macs\r\n. Before you pick up one of those, though, you may be looking to snag some new AirPods. As it happens, several models ar… [+1479 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Mat Smith",
+          "title": "The Morning After: Amazon reportedly exploring free cell phone service for Prime subscribers",
+          "description": "According to Bloomberg, Amazon is in discussions with multiple US-based phone carriers about offering cheap – around $10 a month – or even free phone service to Prime customers. The company is reportedly negotiating with Verizon, AT&T and T-Mobile as well as …",
+          "url": "https://www.engadget.com/the-morning-after-amazon-reportedly-exploring-free-cell-phone-service-for-prime-subscribers-111534986.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/HmsvtziJYdqRgOmp6rrD6w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f9ec6510-ffeb-11ed-bdff-a4f87fd8a5b3.cf.jpg",
+          "publishedAt": "2023-06-05T11:15:34Z",
+          "content": "According to Bloomberg, Amazon is in discussions with multiple US-based phone carriers about offering cheap around $10 a month or even free phone service to Prime customers. The company is reportedly… [+3366 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Karissa Bell",
+          "title": "Apple’s new ‘Journal’ app will help you kickstart a daily diary habit",
+          "description": "Apple has a new diary app landing on iOS devices. Simply called “Journal,” the app is meant to help you keep tabs on daily moments you might want to remember or otherwise reflect on. The app is set to debut later this year following the rollout of iOS 17.The …",
+          "url": "https://www.engadget.com/apples-new-journal-app-will-help-you-kickstart-a-daily-diary-habit-174402869.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/nGZcbDhJryNg.h_m4i.fKg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/93b40d90-03c7-11ee-87d0-a257344020fa.cf.jpg",
+          "publishedAt": "2023-06-05T17:44:02Z",
+          "content": "Apple has a new diary app landing on iOS devices. Simply called Journal, the app is meant to help you keep tabs on daily moments you might want to remember or otherwise reflect on. The app is set to … [+1831 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Jessica Conditt",
+          "title": "macOS Sonoma brings widgets to the desktop",
+          "description": "The latest update to macOS is called Sonoma and it's all about productivity and widget management. The new operating system adds widgets to the desktop and makes them movable, allowing users to place them anywhere. As one widget is in use, the others will fad…",
+          "url": "https://www.engadget.com/macos-sonoma-brings-widgets-to-the-desktop-180459498.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/LT95MHLzc...4rdTD0FH7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/f1bbe6f0-03c8-11ee-9fff-4b95dee79bcd.cf.jpg",
+          "publishedAt": "2023-06-05T18:04:59Z",
+          "content": "The latest update to macOS is called Sonoma and it's all about productivity and widget management. The new operating system adds widgets to the desktop and makes them movable, allowing users to place… [+1027 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Lily Hay Newman",
+          "title": "Apple Expands Its On-Device Nudity Detection to Combat CSAM",
+          "description": "Instead of scanning iCloud for illegal content, Apple's tech will locally flag inappropriate images for kids. And adults are getting an opt-in nudes filter, too.",
+          "url": "https://www.wired.com/story/apple-communication-safety-nude-detection/",
+          "urlToImage": "https://media.wired.com/photos/647e5ff2c859c4a1cdecc337/191:100/w_1280,c_limit/Apple-CSAM-Alternatives-Security.jpg",
+          "publishedAt": "2023-06-05T23:41:46Z",
+          "content": "In December, Appleannounced that it was killing a controversial iCloud photo-scanning tool the company had devised to combat child sexual abuse material (CSAM) in what it said was a privacy-preservin… [+1915 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Ash Parrish",
+          "title": "Apple’s new VR headset will feature over 100 Apple Arcade games at launch",
+          "description": "The Apple Vision Pro will launch next year in the US with Disney Plus and over 100 Apple Arcade games. No word yet on if the Vision Pro will also support VR titles.",
+          "url": "https://www.theverge.com/2023/6/5/23749709/apple-vision-pro-apple-arcade-wwdc-2023",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/0Kgq8H6VBW6tthFbNwjinj36qDg=/323x81:2120x1328/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/24704524/wwdc_2023_603.jpg",
+          "publishedAt": "2023-06-05T19:35:43Z",
+          "content": "Apples new VR headset will feature over 100 Apple Arcade games at launch\r\nApples new VR headset will feature over 100 Apple Arcade games at launch\r\n / Play NBA 2K23 and more on a screen that feels 10… [+1747 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Jess Weatherbed",
+          "title": "Journal is Apple’s new journaling app for iOS",
+          "description": "Apple has unveiled Journal, a new journaling app for iOS that allows iPhone users to regularly log their daily activities",
+          "url": "https://www.theverge.com/2023/6/5/23738869/apple-journal-app-ios-iphone-wwdc-2023",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/m37go-Nr5SFoeMfwQ6x9bpbuxNg=/0x0:2300x1292/1200x628/filters:focal(1150x646:1151x647)/cdn.vox-cdn.com/uploads/chorus_asset/file/24703720/Screen_Shot_2023_06_05_at_6.30.26_PM.png",
+          "publishedAt": "2023-06-05T17:33:25Z",
+          "content": "Image: Apple\r\n\n \n\n Apple has unveiled Journal, a new journaling app for iOS that allows iPhone users to regularly log their daily activities. Announced at Apple’s Worldwide Developers Conference on M… [+1068 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Dan Seifert",
+          "title": "Hands-on with the new 15-inch MacBook Air",
+          "description": "Apple announced its first 15-inch MacBook Air at WWDC 2023, and we just briefly got our hands on the laptop — which weighs slightly over 3 pounds.",
+          "url": "https://www.theverge.com/23747007/apple-macbook-air-15-inch-hands-on-specs-features-price-release-date",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/13Mz4QxC_aY9-mDa6F_Jz7LeeIY=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24704500/macbook_air_15_dan_siefert_008.jpg",
+          "publishedAt": "2023-06-05T19:34:34Z",
+          "content": "Hands-on with the new 15-inch MacBook Air\r\nHands-on with the new 15-inch MacBook Air\r\n / Its a MacBook Air, but bigger\r\nByDan Seifert, an editor overseeing The Verges product reviews and service jour… [+967 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Emma Roth",
+          "title": "Apple’s Vision Pro headset will turn you into a digital avatar when FaceTiming",
+          "description": "Apple’s new Vision Pro headset will let you scan your face to create a digital “persona” you can use with FaceTime. The headset uses a “neural network” to create the virtual version of your face.",
+          "url": "https://www.theverge.com/2023/6/5/23750096/apple-vision-pro-headset-persona-facetime",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/r0evqHa6i-QiBo8FkMSHr2A5I9k=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/24704845/wwdc_2023_vision_pro_persona.jpg",
+          "publishedAt": "2023-06-05T22:16:17Z",
+          "content": "Apples Vision Pro headset will turn you into a digital avatar when FaceTiming\r\nApples Vision Pro headset will turn you into a digital avatar when FaceTiming\r\n / The Vision Pro headset will use a neur… [+1936 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Kyle Barr",
+          "title": "Apple Unveils 15-Inch MacBook Air at WWDC 2023",
+          "description": "It’s here, it’s thin, and it’s got a wider screen. Apple revealed it has a new laptop in store for 2023. It’s another entry in the popular Air line, this time with a 15.3-inch display. Read more...",
+          "url": "https://gizmodo.com/15-inch-macbook-air-apple-wwdc-2023-1850506550",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5ba0f165da354058a248dc7b1e077b61.jpg",
+          "publishedAt": "2023-06-05T19:43:00Z",
+          "content": "Its here, its thin, and its got a wider screen. Apple revealed it has a new laptop in store for 2023. Its another entry in the popular Air line, this time with a 15.3-inch display. \r\nThis latest Appl… [+1610 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Scharon Harding",
+          "title": "Apple’s adding adaptive audio to AirPods Pro",
+          "description": "Automatic switching from iPhone to Mac is supposed to get faster too.",
+          "url": "https://arstechnica.com/gadgets/2023/06/apples-adding-adaptive-audio-to-airpods/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/adaptive-audio-760x380.jpg",
+          "publishedAt": "2023-06-05T18:19:34Z",
+          "content": "1 with \r\n<ul><li>\r\n Apple's adding machine learning volume control features to the second-gen AirPods Pro. \r\n</li><li>\r\n Squeeze where the illustrative green dots are to mute and unmute yourself. \r\n<… [+2180 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Samuel Axon",
+          "title": "watchOS 10 brings widgets and new corner icons to Apple’s wearable",
+          "description": "It'll be one of the more notable recent watchOS updates.",
+          "url": "https://arstechnica.com/gadgets/2023/06/watchos-10-brings-widgets-and-new-corner-icons-to-apples-wearable/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-05-at-1.06.59-PM-760x380.jpg",
+          "publishedAt": "2023-06-05T18:15:54Z",
+          "content": "4 with \r\n<ul><li>\r\n</li><li>\r\n A widget of complications. \r\n</li><li>\r\n</li><li>\r\n</li><li>\r\n A topographical view in maps. \r\n</li><li>\r\n Golf and tennis swing apps. \r\n</li></ul>\r\nCUPERTINO, Calif.Ap… [+1675 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Samuel Axon",
+          "title": "Apple reveals Vision Pro, a AR/VR headset unlike any other",
+          "description": "\"I believe augmented reality is a profound technology,\" says Tim Cook.",
+          "url": "https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/visionpro-760x380.png",
+          "publishedAt": "2023-06-05T18:25:44Z",
+          "content": "Enlarge/ Apple's Vision Pro headset\r\n56 with \r\nCUPERTINO, Calif.After years of speculation, leaks, rumors, setbacks, and rumblings of amazing behind-the-scenes demos, Apple has made its plans for a m… [+2305 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Andrew Cunningham",
+          "title": "New DirectX 12-to-Metal translation could bring a world of Windows games to macOS",
+          "description": "CrossOver announces early, case-by-case support for Windows' current gaming API.",
+          "url": "https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/diablo-resurrected-crossover-760x380.jpeg",
+          "publishedAt": "2023-06-05T16:19:43Z",
+          "content": "Enlarge/ This Diablo II Resurrected screenshot looks pretty unremarkable until you zoom into the top-right and see that it's running on an Apple M2.\r\n0 with \r\nApple has made a tiny bit of progress in… [+2828 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "About ducking time: Apple to tweak iPhone autocorrect function - Reuters",
+          "description": "About ducking time: Apple to tweak iPhone autocorrect function  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWJvdXQtZHVja2luZy10aW1lLWFwcGxlLXR3ZWFrLWlwaG9uZS1hdXRvY29ycmVjdC1mdW5jdGlvbi0yMDIzLTA2LTA1L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-06-05T19:25:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Apple expected to reveal mixed-reality headset at developer ... - Reuters.com",
+          "description": "Apple expected to reveal mixed-reality headset at developer ...  Reuters.com",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGUtZXhwZWN0ZWQtcmV2ZWFsLW1peGVkLXJlYWxpdHktaGVhZHNldC1kZXZlbG9wZXItY29uZmVyZW5jZS0yMDIzLTA2LTA1L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-06-05T11:02:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Apple shares hit all-time high ahead of developer conference - Reuters",
+          "description": "Apple shares hit all-time high ahead of developer conference  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGUtc2hhcmVzLWhpdC1hbGwtdGltZS1oaWdoLWFoZWFkLWRldmVsb3Blci1jb25mZXJlbmNlLTIwMjMtMDYtMDUv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-06-05T13:41:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Factbox: Here's what Apple unveiled at WWDC: Vision Pro, 15-inch ... - Reuters",
+          "description": "Factbox: Here's what Apple unveiled at WWDC: Vision Pro, 15-inch ...  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvaGVyZXMtd2hhdC1hcHBsZS11bnZlaWxlZC13d2RjLXZpc2lvbi1wcm8tMTUtaW5jaC1tYWNib29rLWFpci1vcy11cGRhdGVzLTIwMjMtMDYtMDUv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-06-05T21:17:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Android Central"
+          },
+          "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+          "title": "New Apple Vision Pro XR headset puts the Quest Pro to shame",
+          "description": "Here's everything we know about the Vision Pro, the XR headset that could push other companies (like Google and Samsung) back into the VR space.",
+          "url": "https://www.androidcentral.com/gaming/virtual-reality/apple-vision-pro-vr-headset-announcement",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/CD97ZdSwsaYVRAhTnfZVEG-1200-80.jpeg",
+          "publishedAt": "2023-06-05T18:31:41Z",
+          "content": "What you need to know\r\n<ul><li>At WWDC 2023, Apple announced the Vision Pro XR headset, a premium prosumer device with Apple software built in. </li><li>The headset will use mixed-reality technology,… [+3910 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Amy Fleming",
+          "title": "Apple cider vinegar: the ultimate panacea – or wildly overhyped?",
+          "description": "It has been said to kill E coli, reduce cholesterol, lower blood sugar and aid weight loss. But not all health experts are convinced of its powersFeeling peckish one day in 2017, Darshna Yagnik, an immunologist and lecturer in biomedical science at Middlesex …",
+          "url": "https://www.theguardian.com/lifeandstyle/2023/jun/05/apple-cider-vinegar-the-ultimate-panacea-or-wildly-overhyped",
+          "urlToImage": "https://i.guim.co.uk/img/media/81d54c0e36a99f57a5388ef2433310b16bf07276/0_0_3954_2373/master/3954.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e3d5d5b9305f2471e1e429a6e87843a",
+          "publishedAt": "2023-06-05T09:00:29Z",
+          "content": "Feeling peckish one day in 2017, Darshna Yagnik, an immunologist and lecturer in biomedical science at Middlesex University, took a punt on something that had been lurking at the back of the fridge. … [+8245 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Miles Brignall",
+          "title": "Apple won’t repair my three-year-old MacBook Pro for free",
+          "description": "There was a known fault with screens, but the free repair only applies to models produced earlierRecently my three-year-old £1,300 Apple MacBook Pro’s backlight stopped working, rendering the screen completely black and usable. The laptop still works if attac…",
+          "url": "https://www.theguardian.com/money/2023/jun/05/apple-repair-macbook-pro-free-screens",
+          "urlToImage": "https://i.guim.co.uk/img/media/fed1ba15f60002daa0a55f3b6e9c5754b4870f6c/0_0_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04686b98d47b57eadb575da281b5329e",
+          "publishedAt": "2023-06-05T06:00:21Z",
+          "content": "Recently my three-year-old £1,300 Apple MacBook Pros backlight stopped working, rendering the screen completely black and usable. The laptop still works if attached to another screen, so the computer… [+2345 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Alex Hern",
+          "title": "Apple reveals Vision Pro AR headset at its worldwide developers conference",
+          "description": "Headset allows users to ‘browse the system simply by looking’ and tapping their fingers to select, says AppleApple has lifted the lid on the worst kept secret in Silicon Valley and revealed the Vision Pro VR headset.“With Vision Pro, you’re no longer limited …",
+          "url": "https://www.theguardian.com/technology/2023/jun/05/apple-vision-pro-ar-headset-revealed-worldwide-developers-conference",
+          "urlToImage": "https://i.guim.co.uk/img/media/4ad6560b1610bc3fb24bae524d7e8dd82231f975/58_83_1453_872/master/1453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=817f20b4b7d9d7613860f41f4ef29f90",
+          "publishedAt": "2023-06-05T18:48:20Z",
+          "content": "Apple has lifted the lid on the worst kept secret in Silicon Valley and revealed the Vision Pro VR headset.\r\nWith Vision Pro, youre no longer limited by a display. Your surroundings become an infinit… [+9339 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "Apple Announces macOS Sonoma With Desktop Widgets and More",
+          "description": "Apple today announced macOS Sonoma, the latest version of its Mac operating system. Launching this fall, macOS Sonoma includes several new features, including desktop widgets, Apple TV-like aerial screensavers, iMessage enhancements, a new Game mode, and more…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-announces-macos-sonoma-with-desktop-widgets-and-more/",
+          "urlToImage": "https://images.macrumors.com/t/MZVtDs4PIOe_ezYJ-mW7C_baYro=/1600x/article-new/2023/06/macOS-Sonoma-Widgets.jpeg",
+          "publishedAt": "2023-06-05T17:49:57Z",
+          "content": "Apple today announced macOS Sonoma, the latest version of its Mac operating system. Launching this fall, macOS Sonoma includes several new features, including desktop widgets, Apple TV-like aerial sc… [+84 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "FaceTime Launching on Apple TV With iPhone and iPad Camera Integration",
+          "description": "Apple today announced that FaceTime is launching on Apple TV as part of tvOS 17. The feature will take advantage of Apple's Continuity Camera feature, allowing for people to use a wirelessly connected iPhone or iPad camera to join in a video call.\n\n\n\n\n\nMore d…",
+          "url": "https://www.macrumors.com/2023/06/05/facetime-launching-on-apple-tv-with-iphone-and-ipad-camera-integration/",
+          "urlToImage": "https://images.macrumors.com/t/uVtC0ianYERl7RjRvt5FoCHxMes=/1600x/article-new/2023/06/FaceTime-Apple-TV.jpeg",
+          "publishedAt": "2023-06-05T18:10:13Z",
+          "content": "Apple's AR/VR headset is coming soon with eye- and gesture-tracking, dual 4K displays, M-series chips, and more. Here's what we know so far."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Tim Hardwick",
+          "title": "Apple Announces New MacBook Air With 15.3-inch Display and M2 Chip",
+          "description": "Apple at WWDC today announced a new MacBook Air with a 15-inch display and a new M2 processor. \n\n\n\n\n\n\n\nMore to follow...Related Roundup: MacBook AirTag: WWDCBuyer's Guide: MacBook Air (Caution)Related Forums: MacBook Air, Apple, Inc and Tech IndustryThis arti…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/",
+          "urlToImage": "https://images.macrumors.com/t/3TOJx2S1Hx_yTg_eXeGhQesgy_Q=/1600x/article-new/2023/06/15-inch-macbook-air.jpg",
+          "publishedAt": "2023-06-05T17:06:53Z",
+          "content": "Apple's AR/VR headset is coming soon with eye- and gesture-tracking, dual 4K displays, M-series chips, and more. Here's what we know so far."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple Vision Pro Priced Starting at $3499, Will Launch in Early 2024 in the U.S.",
+          "description": "Apple today introduced the long-awaited AR/VR headset that it has had in development for the last several years, and as rumors suggested, it is expensive. The Vision Pro is priced starting at $3,499.\n\n\n\n\n\nGiven the high price point, there appears to be a sing…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-vision-pro-3499-price/",
+          "urlToImage": "https://images.macrumors.com/t/_3ZdexFpOCvS8zchAikSJtoScBg=/2698x/article-new/2023/06/vision-pro-headset-1.jpg",
+          "publishedAt": "2023-06-05T19:56:44Z",
+          "content": "Apple today introduced the long-awaited AR/VR headset that it has had in development for the last several years, and as rumors suggested, it is expensive. The Vision Pro is priced starting at $3,499.… [+546 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple Vision Pro Headset Supports Prescription Inserts for Glasses Wearers",
+          "description": "Apple today announced the Apple Vision Pro, a wearable augmented and virtual reality headset. Because of the way the headset fits against the face, it does not accommodate glasses, but Apple has a solution for those who need prescription lenses. \n\n\n\n\n\nApple i…",
+          "url": "https://www.macrumors.com/2023/06/05/vision-pro-prescription-insert-support/",
+          "urlToImage": "https://images.macrumors.com/t/XMoYyiLjJ3ePlW78tYaibrUAbjs=/2000x/article-new/2023/06/apple-vision-pro-lenses.jpg",
+          "publishedAt": "2023-06-05T23:34:22Z",
+          "content": "Apple today announced the Apple Vision Pro, a wearable augmented and virtual reality headset. Because of the way the headset fits against the face, it does not accommodate glasses, but Apple has a so… [+730 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Hartley Charlton",
+          "title": "Apple Announces watchOS 10 With Widgets, Redesigned Apps, and More",
+          "description": "Apple today announced watchOS 10, a major update to the operating system for the Apple Watch, introducing a new widgets view, redesigned apps, improvements to workouts, and more.\n\n\n\n\n\n‌watchOS 10‌ features a new way to view information from any watch face wit…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-announces-watchos-10-with-widgets-and-redesigned-apps/",
+          "urlToImage": "https://images.macrumors.com/t/8gl9JYYt_VA4hYYefZnDagjCLLA=/1600x/article-new/2023/06/watchos-10.jpg",
+          "publishedAt": "2023-06-05T18:07:56Z",
+          "content": "Apple today announced watchOS 10, a major update to the operating system for the Apple Watch, introducing a new widgets view, redesigned apps, improvements to workouts, and more.\r\n‌watchOS 10‌ featur… [+1241 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple Seeds First Beta of watchOS 10 to Developers",
+          "description": "Following this morning's keynote event, Apple has seeded the first beta of an upcoming watchOS 10 update to developers for testing purposes.\n\n\n\n\n\nTo install the ‌watchOS 10‌ update, developers will need to open the Apple Watch app, go to the Software Update s…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-seeds-first-beta-of-watchos-10-to-developers/",
+          "urlToImage": "https://images.macrumors.com/t/--b3MaNPmG5I_A7AWQlyrA9vEv0=/2250x/article-new/2023/04/Apple-watchOS-10-Feature.jpg",
+          "publishedAt": "2023-06-05T20:11:00Z",
+          "content": "Following this morning's keynote event, Apple has seeded the first beta of an upcoming watchOS 10 update to developers for testing purposes.\r\nTo install the ‌watchOS 10‌ update, developers will need … [+1270 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Tim Hardwick",
+          "title": "Apple Announces New Intelligent AirPlay Features in iOS 17",
+          "description": "Apple today at WWDC announced new AirPlay abilities coming in iOS 17, including on-device intelligence to learn your ‌AirPlay‌ preferences around the home, as well as ‌AirPlay‌ support coming to more hotel rooms.\n\n\n\n\n\nIn terms of on-device intelligence, ‌AirP…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-ios-17-new-intelligent-airplay/",
+          "urlToImage": "https://images.macrumors.com/t/_TjebQqqn7Gj7uV4BrouPsMJ8cg=/1600x/article-new/2023/06/airplay-hotels.jpg",
+          "publishedAt": "2023-06-05T18:10:05Z",
+          "content": "Apple today at WWDC announced new AirPlay abilities coming in iOS 17, including on-device intelligence to learn your ‌AirPlay‌ preferences around the home, as well as ‌AirPlay‌ support coming to more… [+410 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple Releases First Betas of iOS 17 and iPadOS 17",
+          "description": "Following today's keynote event, Apple has released the first betas of iOS 17 and iPadOS 17 to developers for testing purposes. The betas are only available for those with a developer account, and Apple is restricting downloads with the elimination of the pre…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-releases-ios-17-beta/",
+          "urlToImage": "https://images.macrumors.com/t/1Cc_6-HuM2hg4Hv1uAHdxCnrywY=/2500x/article-new/2023/01/iOS-17-Icon-Mock-Feature-Feature.jpg",
+          "publishedAt": "2023-06-05T20:12:28Z",
+          "content": "Following today's keynote event, Apple has released the first betas of iOS 17 and iPadOS 17 to developers for testing purposes. The betas are only available for those with a developer account, and Ap… [+2703 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Tim Hardwick",
+          "title": "Apple Announces iPadOS 17 With Custom Lock Screens and Interactive Widgets",
+          "description": "Apple today at WWDC announced iPadOS 17, bringing several new features to iPads including updates to widgets and the Lock Screen that bring more parity with iPhones. \n\n\n\n\n\nFor the first time, iPads will support customized Lock Screens, while Home Screen widge…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-announces-ipados-17/",
+          "urlToImage": "https://images.macrumors.com/t/rICg2HaF1L2r8fweBdvR39t3_as=/1600x/article-new/2023/06/ipados-17-lock-screen.jpg",
+          "publishedAt": "2023-06-05T17:42:40Z",
+          "content": "Apple today at WWDC announced iPadOS 17, bringing several new features to iPads including updates to widgets and the Lock Screen that bring more parity with iPhones. \r\nFor the first time, iPads will … [+192 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Tim Hardwick",
+          "title": "Apple Now Accepting Trade-Ins of Mac Studio, 13-inch M2 MacBook Air, and 13-inch M2 MacBook Pro",
+          "description": "Apple is now allowing customers to trade-in a Mac Studio, 13-inch M2 MacBook Air, and 13-inch M2 MacBook Pro for credit towards new Apple product purchases. \n\n\n\n\n\nAs part of Apple's trade-in program, customers can trade in a Mac Studio and receive up to $1,50…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-trade-ins-mac-studio-m2-macboook-air/",
+          "urlToImage": "https://images.macrumors.com/t/NW9un_8B9BlkWjcFxPG4UTfX2aU=/2500x/article-new/2022/08/mac-studio-pink.jpg",
+          "publishedAt": "2023-06-05T19:09:38Z",
+          "content": "Apple is now allowing customers to trade-in a Mac Studio, 13-inch M2 MacBook Air, and 13-inch M2 MacBook Pro for credit towards new Apple product purchases. \r\nAs part of Apple's trade-in program, cus… [+680 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "iOS 17 Lets You Create a Voice That Sounds Like You",
+          "description": "With the first iOS 17 beta, Apple has introduced a new accessibility feature called Personal Voice. First highlighted earlier this year, Personal Voice is designed to allow you to use artificial intelligence to create a replica of your voice.\n\n\n\n\n\nThe feature…",
+          "url": "https://www.macrumors.com/2023/06/05/ios-17-personal-voice/",
+          "urlToImage": "https://images.macrumors.com/t/XZwR9utIZyQZfAI8SeqhZvlC6EM=/2000x/article-new/2023/06/ios-17-personal-voice-2.jpg",
+          "publishedAt": "2023-06-05T22:37:46Z",
+          "content": "With the first iOS 17 beta, Apple has introduced a new accessibility feature called Personal Voice. First highlighted earlier this year, Personal Voice is designed to allow you to use artificial inte… [+1297 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Mitchel Broussard",
+          "title": "AirPods Gaining 'Adaptive Audio' Feature That Dynamically Adjusts to Your Environment",
+          "description": "Apple today announced a new Adaptive Audio feature coming to AirPods, which combines transparency and noise canceling to dynamically adjust the audio in your AirPods.\n\n\n\n\n\nThis way, loud or distracting noises surrounding you will be automatically reduced, whi…",
+          "url": "https://www.macrumors.com/2023/06/05/airpods-gaining-adaptive-audio/",
+          "urlToImage": "https://images.macrumors.com/t/lgJtElxhV1OYmNnEe54qQ7cnG2M=/1600x/article-new/2023/06/f-c48f85c666086c80ac648bbe43ed71a680e8d64d.jpg",
+          "publishedAt": "2023-06-05T18:07:27Z",
+          "content": "Apple today announced a new Adaptive Audio feature coming to AirPods, which combines transparency and noise canceling to dynamically adjust the audio in your AirPods.\r\nThis way, loud or distracting n… [+440 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Mitchel Broussard",
+          "title": "iOS 17 Includes Updated Phone, FaceTime, and Messages Apps",
+          "description": "Apple today announced new updates coming to Phone, FaceTime, and Messages in iOS 17 later this year.\n\n\n\n\n\nWith the new update, you'll be able to create your own custom contact poster with your photos or Memoji. This custom creation will then appear on other p…",
+          "url": "https://www.macrumors.com/2023/06/05/ios-17-phone-facetime-messages/",
+          "urlToImage": "https://images.macrumors.com/t/Z8Vgi7pBoUzOrITP4RuH1pmAuPo=/1600x/article-new/2023/06/f-5f66fb0cdd3d2be41a6c88f69155cde53aff786b.jpg",
+          "publishedAt": "2023-06-05T17:40:06Z",
+          "content": "Apple today announced new updates coming to Phone, FaceTime, and Messages in iOS 17 later this year.\r\nWith the new update, you'll be able to create your own custom contact poster with your photos or … [+1351 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Eric Slivka",
+          "title": "WWDC 2023 Spoiler-Free Video Stream",
+          "description": "Apple's WWDC 2023 begins today, with the event kicking off at 10:00 am Pacific Time via the traditional opening keynote. We know that some MacRumors readers who can't follow the event as it's being broadcast are interested in avoiding all of the announcements…",
+          "url": "https://www.macrumors.com/2023/06/05/wwdc-2023-spoiler-free/",
+          "urlToImage": "https://images.macrumors.com/t/4KuPyUC3eZeTlrE7myJI71qXFz8=/1600x/article-new/2023/06/wwdc-2023-watch-today.jpg",
+          "publishedAt": "2023-06-05T14:40:00Z",
+          "content": "Apple's WWDC 2023 begins today, with the event kicking off at 10:00 am Pacific Time via the traditional opening keynote. We know that some MacRumors readers who can't follow the event as it's being b… [+842 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Joseph Kaminski",
+          "title": "Apple WatchOS 10: Can Your Apple Watch Support It? - CNET",
+          "description": "Apple made many announcements at its WWDC conference, including features coming in the new WatchOS 10. Here's what Apple Watches can take advantage.",
+          "url": "https://www.cnet.com/tech/mobile/apple-watchos-10-can-your-apple-watch-support-it/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/4300c95f60a9bbe1afcf721e44548f0181ac318d/hub/2022/11/07/82a0763c-5728-4fb3-b98e-6575401987e9/p1050770-00-14-39-12-still008.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T19:03:10Z",
+          "content": "WWDC 2023's keynote has come to a close, but not without Apple introducing WatchOS 10, the latest software update to Apple's smartwatch platform. \r\nApple's WatchOS revolutionized what's possible with… [+894 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Lisa Eadicicco",
+          "title": "WatchOS 10 Announced: New Apple Watch Features Coming This Year - CNET",
+          "description": "Apple previews its WatchOS 10 update at WWDC 2023.",
+          "url": "https://www.cnet.com/tech/mobile/watchos-10-announced-new-apple-watch-features-coming-this-year/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/42fc2fcb47955189e6c03c3ee942adaebbae7de4/hub/2022/11/07/57933282-6e58-43a7-a470-488600c6184d/p1050770-00-14-34-14-still003.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T18:09:18Z",
+          "content": "Apple just introduced WatchOS 10, its next major operating system update for the Apple Watch. The announcement came during Apple's Worldwide Developers Conference on Monday. \r\nApple is updating the A… [+1550 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Andrew Lanxon",
+          "title": "MacOS 14 Sonoma Launches at WWDC 2023 - CNET",
+          "description": "At WWDC 2023, Apple showed off its latest desktop software, which includes more customizable widgets.",
+          "url": "https://www.cnet.com/tech/computing/macos-sonoma-unveiled-your-mac-is-getting-more-customizable/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/a272212f93959a4289b96bc086a58e571cd1c81d/hub/2023/05/23/b9b9ad78-2c57-4b24-b6a4-e7dbda7e2ef1/apple-event-05062023-tim-cook-illustration.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T17:51:00Z",
+          "content": "At its WWDC 2023 keynote event Monday, Apple took the wraps off MacOS 14 Sonoma, the latest operating system for the company's line of Mac desktops and MacBooks. MacOS 14 Sonoma comes with a number o… [+998 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Andrew Lanxon",
+          "title": "MacOS Sonoma Offers You Key Upgrades, Customizable Widgets - CNET",
+          "description": "At WWDC 2023, Apple showed off its latest desktop software, which includes more customizable widgets.",
+          "url": "https://www.cnet.com/tech/computing/macos-sonoma-offers-you-key-upgrades-customizable-widgets/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/ebbfd3e5d47fedbafe3e4f0056bc7b188070fde3/hub/2023/06/05/7eb6dd12-1ca3-41ab-8a82-66be1b52b526/screenshot-2023-06-05-at-10-45-28-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T18:12:00Z",
+          "content": "At its WWDC 2023 keynote event Monday, Apple took the wraps off MacOS 14 Sonoma, the latest operating system for the company's line of Mac desktops and MacBooks. MacOS 14 Sonoma comes with a number o… [+1028 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Zachary McAuliffe",
+          "title": "Apple's AR/VR Headset Has Its Own OS Called VisionOS - CNET",
+          "description": "Apple unveiled the long awaited AR/VR headset, the Vision Pro, Monday at WWDC.",
+          "url": "https://www.cnet.com/tech/computing/apples-arvr-headset-has-its-own-os-called-visionos/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/8b598b4d87054ffbcddf491380107ce33e7d2140/hub/2022/12/07/32ceee0d-9336-4472-8f7e-63ff84ab894f/apple-ar-vr-headset-virtual-reality-1564.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T19:03:00Z",
+          "content": "Apple finally announced it's long-rumored AR/VR headset, called Vision Pro, Monday at its Worldwide Developers Conference, and the company also said the headset will have its own operating system cal… [+170 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Meara Isenberg",
+          "title": "Journal App Coming to Your iPhone With iOS 17 - CNET",
+          "description": "Apple revealed the app at its Worldwide Developers Conference on Monday.",
+          "url": "https://www.cnet.com/tech/services-and-software/journal-app-coming-to-your-iphone-with-ios-17/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/4622b8b3a5d232aa62013289c1b306ff18d90094/hub/2023/06/05/4b83e3ee-f71d-4d03-a6a0-24e9f61f8a81/screenshot-2023-06-05-at-10-30-46-am.png?auto=webp&fit=crop&height=675&precrop=1698,954,x73,y0&width=1200",
+          "publishedAt": "2023-06-05T18:40:00Z",
+          "content": "A new journaling app is coming to iPhones later this year, Apple said at its Worldwide Developers Conference on Monday.\r\nThe app, simply called Journal, is coming to iOS 17. The app uses on-device ma… [+631 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Lisa Eadicicco",
+          "title": "How WatchOS 10 Will Enhance Your Apple Watch: New Features Announced at WWDC - CNET",
+          "description": "New widgets and watch faces are coming to the Apple Watch in WatchOS 10.",
+          "url": "https://www.cnet.com/tech/mobile/how-watchos-10-will-enhance-your-apple-watch-new-features-announced-at-wwdc/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/b5404181f012701805074f92994ab698fba3052b/hub/2023/06/05/60a34363-fb46-4103-8b88-ae1cf7fa02ff/watchos-10-wwdc-apps.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T20:47:23Z",
+          "content": "Apple just introduced WatchOS 10, its next major operating system update for the Apple Watch. The announcement came during Apple's Worldwide Developers Conference on Monday. As with previous updates,… [+3389 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Meara Isenberg",
+          "title": "iOS 17's New Journal App Uses AI to Suggest What to Write About - CNET",
+          "description": "Apple revealed the app at its Worldwide Developers Conference on Monday.",
+          "url": "https://www.cnet.com/tech/services-and-software/ios-17s-new-journal-app-uses-ai-to-suggest-what-to-write-about/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/4622b8b3a5d232aa62013289c1b306ff18d90094/hub/2023/06/05/4b83e3ee-f71d-4d03-a6a0-24e9f61f8a81/screenshot-2023-06-05-at-10-30-46-am.png?auto=webp&fit=crop&height=675&precrop=1698,954,x73,y0&width=1200",
+          "publishedAt": "2023-06-05T20:39:20Z",
+          "content": "A new journaling app is coming to iPhones later this year, Apple said at its Worldwide Developers Conference on Monday.\r\nThe app, simply called Journal, is coming to iOS 17. The app uses on-device ma… [+629 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Zachary McAuliffe",
+          "title": "Apple Unveiled iPadOS 17 at WWDC 2023 - CNET",
+          "description": "Apple's iPadOS 17 will bring some familiar iPhone features to your iPad.",
+          "url": "https://www.cnet.com/tech/computing/apple-unveiled-ipados-17-at-wwdc-2023/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/0c3924e7a90cac407b319ed2ee761b965f31b7ea/hub/2022/10/21/de8d18ec-ca1e-4448-b1c4-1afc22b0ad29/ipad-10th-gen-review-7996.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T18:03:00Z",
+          "content": "Apple showed off its next iPad software, iPadOS 17, at the company's Worldwide Developers Conference on Monday, and the next OS will make your iPad feel more like your iPhone.\r\nApple said the next iP… [+830 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Lori Grunin",
+          "title": "Apple Upgrades Mac Pro to M2 Ultra Silicon - CNET",
+          "description": "The company's power pro desktop finally gets the update we've all been waiting for.",
+          "url": "https://www.cnet.com/tech/computing/apple-upgrades-mac-pro-to-m2-ultra-silicon/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/5c7936f96550ec7284f3e8d25a0f85ba515740f9/hub/2023/06/05/c58bb386-5aeb-4f73-a1b6-ebfc437be1cf/screenshot-2023-06-05-at-10-16-07-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T17:32:00Z",
+          "content": "Apple's serious modular pro desktop gets its first real update since 2019, incorporating the new M2 Ultra chip announced at WWDC 2023.\r\nYou can follow the event on our live blog.\r\nThe Ultra is a pair… [+623 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Dan Ackerman",
+          "title": "MacBook Air 15-Inch: Apple Just Announced Its Biggest Air Ever - CNET",
+          "description": "Powered by an Apple M2 chip, the new 15-inch MacBook Air weighs only 3.3 pounds and starts at $1,299.",
+          "url": "https://www.cnet.com/tech/computing/macbook-air-15-inch-apple-just-announced-its-biggest-air-ever/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/0e57c49cba9debee51f4e8e2377b9e21f96be669/hub/2023/06/05/e2e18de8-c14b-46f3-8a46-f3c5ab40c7d3/screenshot-2023-06-05-at-10-06-29-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T17:40:00Z",
+          "content": "At Apple's WWDC keynote, the company revealed a new 15-inch version of its popular MacBook Air laptop. The new 15-inch version joins the current 13-inch Air and Apple's own M-series chips power both.… [+1596 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Stephen Shankland",
+          "title": "The Tech Inside Apple's Vision Pro AR Headset: M2 Chip, 4K Displays - CNET",
+          "description": "A $3,500 price pays for a lot of high-end hardware, including two Apple processors and high-res displays.",
+          "url": "https://www.cnet.com/tech/computing/the-tech-inside-apples-vision-pro-ar-headset-m2-chip-4k-displays/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/62b10492a4f43073e03b3e5ae2e365962def75f2/hub/2023/06/05/854d4d6b-b150-4642-8b39-7f20a75f4764/apple-reality-pro-headset-hardware.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T20:00:00Z",
+          "content": "Apple packed a lot of hardware into its Vision Pro headset, including high-resolution optics, more than a dozen sensors and a pair of Apple-designed processors. Here's a look at the technology that m… [+2824 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "David Lumb",
+          "title": "Everything Announced at Apple's WWDC 2023 - CNET",
+          "description": "Everything Apple announced at its annual Palo Alto event, from its expected AR/VR headset to new Macs and software updates like iOS 17 and more.",
+          "url": "https://www.cnet.com/tech/mobile/wwdc-2023-recap-ios-17-vision-pro-macbook-air-everything-else-announced/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/a272212f93959a4289b96bc086a58e571cd1c81d/hub/2023/05/23/b9b9ad78-2c57-4b24-b6a4-e7dbda7e2ef1/apple-event-05062023-tim-cook-illustration.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T17:10:00Z",
+          "content": "Apple's WWDC event kicked off with a keynote showing everything coming to the company's lineup of devices. The big developer-focused event has been where the company gives us a first look at new soft… [+12739 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "David Carnoy",
+          "title": "Apple Cuts 13-Inch MacBook Air Price by $100 – but You Can Already Save More - CNET",
+          "description": "With the arrival of the 15-inch MacBook Air, Apple has officially lowered the price of its latest 13-inch model, powered by Apple's own M2 chip.",
+          "url": "https://www.cnet.com/tech/computing/apple-cuts-13-inch-macbook-air-price-by-100-but-you-can-already-save-more/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/3252cbb524f944617dd2f18e33cf7bdd5432632e/hub/2022/09/23/232a8e9c-3b32-408d-85c2-539d421981d4/macbook-air-m2-lifestyle.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T21:58:00Z",
+          "content": "With Apple announcing its new 15-inch MacBook Air with M2 Chip ($1,299) at WWDC 2023, there's some good news for people looking for a deal on the smaller, 13-inch M2 MacBook Air: The company is offic… [+796 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Eli Blumenthal",
+          "title": "Apple's TVOS 17 Brings FaceTime to Apple TV, Find My Remote Functionality To Siri Remote - CNET",
+          "description": "You can finally use Find My to find a lost Siri Remote.",
+          "url": "https://www.cnet.com/tech/home-entertainment/apples-tvos-17-brings-facetime-to-apple-tv-find-my-remote-functionality-to-siri-remote/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/de236fa132377d544a3c74e39460ecc99dd65b5f/hub/2023/06/05/264f13d0-3ddc-4c94-9459-5b396192869c/screenshot-2023-06-05-at-11-05-07-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T20:37:26Z",
+          "content": "It may have gotten lost behind all the new Macs, iOS 17 and Vision Pro news, but Apple did give a little love to the Apple TV during its two-hour WWDC keynote. Among the notable bits of news: FaceTim… [+1767 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Bree Fowler",
+          "title": "Apple's Vision Pro Headset to Be Secured by New Optic ID System - CNET",
+          "description": "The new system uses a person's unique iris to unlock the mixed-reality headset.",
+          "url": "https://www.cnet.com/tech/services-and-software/apples-vision-pro-headset-data-to-be-secured-by-new-optic-id-system/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/1710149847f69ce4e1e7d6c1bfb6852b7d65b47c/hub/2023/06/05/17c288e4-ee7c-448a-b782-8ac829537db8/screenshot-2023-06-05-at-12-05-18-pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T19:38:00Z",
+          "content": "Apple's long-awaited Vision Pro headset will include a new authentication system specifically designed for the world of virtual reality.\r\nAnnounced at Apple's WWDC 2023 keynote event, Optic ID uses a… [+991 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Corinne Reichert",
+          "title": "Apple's Vision Pro Will Display Your Eyes to Those Around You - CNET",
+          "description": "The EyeSight feature on Apple's mixed-reality headset will show your eyes while you're just scrolling apps to indicate you can see those nearby.",
+          "url": "https://www.cnet.com/tech/computing/apples-vision-pro-will-display-your-eyes-to-those-around-you/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/64d3bd55e8543234b30aaea9c84a7f889ec61945/hub/2023/06/05/f5a92eb6-71d0-4e8e-bcd9-12a68b8eafca/screenshot-2023-06-05-at-11-23-15-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T19:06:46Z",
+          "content": "On the heels of unveiling Vision Pro, Apple's new mixed reality headset, Apple has revealed the AR/VR device will display your actual eyes to those around you while you're wearing the headset, using … [+1495 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Corinne Reichert",
+          "title": "Apple's EyeSight Feature on Vision Pro Is Creepier Than It Needs to Be - CNET",
+          "description": "The slightly bizarre feature on Apple's mixed reality headset will show your eyes while you're scrolling apps to indicate you can see people nearby.",
+          "url": "https://www.cnet.com/tech/computing/apples-eyesight-feature-on-vision-pro-is-creepier-than-it-needs-to-be/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/64d3bd55e8543234b30aaea9c84a7f889ec61945/hub/2023/06/05/f5a92eb6-71d0-4e8e-bcd9-12a68b8eafca/screenshot-2023-06-05-at-11-23-15-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T20:13:00Z",
+          "content": "Vision Pro, Apple's new mixed reality headset, comes with a feature that verges on creepy: the AR/VR device will display your actual eyes to those around you while you're wearing the headset, using a… [+1680 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Jessica Rendall",
+          "title": "Vision Health Was the Apple of Apple's Eye at WWDC 2023 - CNET",
+          "description": "A new watchOS 10 feature will monitor daylight time, which may be important for kids' eye development. Plus, Apple reminds you to keep your screen away from your face.",
+          "url": "https://www.cnet.com/health/personal-care/vision-health-was-the-apple-of-apples-eye-at-wwdc-2023/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/d4e1adbd13be609828ec7fe40e17d9d5c9e65fe2/hub/2023/06/05/5d1d32f1-0ccb-4436-bed0-d6ecfd61dedb/apple-wwdc23-health-insights-vision-health-time-in-daylight-230605-inline-jpg-large-2x.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T20:49:00Z",
+          "content": "We already know spending hours on-end staring at screens isn't easy on your eyes, but monitoring the screens-to-sunlight ratio may be especially important for children whose eyes are developing. \r\nAt… [+1748 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Bree Fowler",
+          "title": "Apple Just Added a Way to (Safely) Share Passwords With Family - CNET",
+          "description": "The Safari updates will let a group of users add, edit and share their communal logins.",
+          "url": "https://www.cnet.com/tech/services-and-software/apple-just-added-a-way-to-safely-share-passwords-with-family/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/a592d40d039e0c9a9ed5b7bc64b1bddc11af96b5/hub/2023/06/05/e645834a-ec59-40fe-89a8-d0c99b39ba69/screenshot-2023-06-05-at-10-55-21-am-1.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T18:56:00Z",
+          "content": "Users of Apple's Safari browser will soon be able to securely share their passwords and passkeys with each other.\r\nAt its WWDC 2023 keynote event, Apple said the feature being rolled out as part of M… [+920 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Scott Stein",
+          "title": "Apple Vision Pro Hands-On: This Is the Headset I'd Use to Watch 3D 'Avatar' - CNET",
+          "description": "I experienced incredible fidelity, surprising video quality and a really smooth interface. Apple's first mixed reality headset nails those, but lots of questions remain.",
+          "url": "https://www.cnet.com/tech/computing/apples-vision-pro-hands-on-this-is-the-headset-id-use-to-watch-3d-avatar/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/bba0677932252918f6e6bc6488b7716d68d830e1/hub/2023/06/05/bf54ee0e-e505-496b-b8d4-6d43bf0f0227/wwdc-2023-060523-apple-pro-vision-hands-on.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T23:40:00Z",
+          "content": "I was in a movie theater last December watching Avatar: The Way of Water in 3D, and I said to myself: \"Wow, this is an immersive film I'd love to watch in next-gen VR.\" That's exactly what I just exp… [+9702 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Ty Pendlebury",
+          "title": "Vision Pro Will Beat Any Other Device for 3D Movies, Apple Says - CNET",
+          "description": "The company showed clips of Avatar 2 and announced Disney Plus would be available on its $3,499 headset.",
+          "url": "https://www.cnet.com/tech/computing/vision-pro-will-beat-any-other-device-for-3d-movies-apple-says/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/94ca86e78cbea4b8e3d4bcd2eda380b46851f8ac/hub/2023/06/05/4e991957-a5af-4b44-9ef0-c36288aa76a8/screenshot-2023-06-05-at-11-38-38-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T20:25:00Z",
+          "content": "As Avatar 2 becomes the third-highest grossing movie of all time, Apple says its new Vision Pro headset promises a 3D movie experience like no other. Perfect for watching Avatar movies, then.\r\nDuring… [+1702 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Lori Grunin",
+          "title": "Apple Mac Studio Update at WWDC: M2 Ultra Arrives as an Add-On - CNET",
+          "description": "The company's compact desktop for creatives gets its first upgrade since it launched. and now you can configure it with a high-end M2 Ultra.",
+          "url": "https://www.cnet.com/tech/computing/apple-mac-studio-update-at-wwdc-m2-ultra-arrives-as-an-add-on/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/ceec8ae72991ad8367bef2cf6d41e98b5daed335/hub/2023/06/05/1ea1e694-230c-4af7-96e8-9968f4c708b3/apple-wwdc23-mac-studio-m2-max-m2-ultra-davinci-resolve-230605.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T17:29:00Z",
+          "content": "For the first update since the Mac Studio launched in March 2022, Apple introduced a high-end M2 Ultra chip at  its WWDC developer conference. The update also includes the launch of the M2 Ultra in a… [+2729 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Meara Isenberg",
+          "title": "Disney Plus Coming to Apple Vision Pro on Day One - CNET",
+          "description": "At Apple's WWDC developers conference, Disney CEO Bob Iger offered a glimpse at Disney and Apple's collab.",
+          "url": "https://www.cnet.com/tech/computing/disney-plus-coming-to-apple-vision-pro-on-day-one/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/3a75434b7d4682312e3616960a715d78635e74f0/hub/2023/06/05/16cd48b4-647e-4810-9037-89c212f8177f/screenshot-2023-06-05-at-5-21-37-pm.jpg?auto=webp&fit=crop&height=675&precrop=3325,1868,x216,y122&width=1200",
+          "publishedAt": "2023-06-05T22:08:35Z",
+          "content": "Apple's upcoming Vision Pro mixed-reality headset will feature Disney from the get-go, Disney CEO Bob Iger announced on Monday as part of the tech giant's Worldwide Developers Conference.\r\nIger discu… [+1210 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Sarah Lord",
+          "title": "MacOS Sonoma: Will Your Mac Support It? - CNET",
+          "description": "Apple's latest operating system announced at WWDC has many new features, but you'll need a fairly recent Mac to run it.",
+          "url": "https://www.cnet.com/tech/computing/macos-sonoma-will-your-mac-support-it/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/ebbfd3e5d47fedbafe3e4f0056bc7b188070fde3/hub/2023/06/05/7eb6dd12-1ca3-41ab-8a82-66be1b52b526/screenshot-2023-06-05-at-10-45-28-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T20:20:00Z",
+          "content": "Apple unveiled its newest operating system for the Mac, MacOS Sonoma, today at its annual WWDC. While it features a host of new updates like video screensavers and more customizable widgets, not ever… [+1377 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Stephen Shankland",
+          "title": "Apple's Brainiest Mac Chip So Far, the M2 Ultra, Means No More Intel - CNET",
+          "description": "The new chip powers Apple's new Mac Pro and upgraded Mac Studio, letting power users pack as much as 192GB of memory into their machines.",
+          "url": "https://www.cnet.com/tech/computing/apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/ac9f4e6185ebc3ddef15f8ddeb86f837ce737b6f/hub/2023/06/05/3d6a31c0-2940-4f7d-952b-e0ca9eb6e96b/apple-m2-ultra-processor.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T17:46:00Z",
+          "content": "For Mac owners who need top speed, Apple unveiled its new M2 Ultra on Monday, a processor that jams two M2 Max chips together into one bigger electronic brain for the Mac Studio and new Mac Pro deskt… [+1003 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Scott Stein",
+          "title": "Apple's Vision Pro Hands-On: This Is the VR Headset I'd Use to Watch 3D Avatar - CNET",
+          "description": "I experienced incredible fidelity, surprising video quality and a really smooth interface. Apple's first VR headset nails it.",
+          "url": "https://www.cnet.com/tech/computing/apples-vision-pro-hands-on-this-is-the-vr-headset-id-use-to-watch-3d-avatar/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/bba0677932252918f6e6bc6488b7716d68d830e1/hub/2023/06/05/bf54ee0e-e505-496b-b8d4-6d43bf0f0227/wwdc-2023-060523-apple-pro-vision-hands-on.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T23:40:00Z",
+          "content": "I was in a movie theater last December watching Avatar: The Way of Water in 3D and I said to myself: \"Wow, this is an immersive film I'd love to watch in next-gen VR.\" That's exactly what I just expe… [+9622 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Dan Ackerman",
+          "title": "Hands-On With the MacBook Air 15-Inch - CNET",
+          "description": "The biggest MacBook Air is a welcome upgrade for older eyes like mine.",
+          "url": "https://www.cnet.com/tech/computing/hands-on-with-the-macbook-air-15-inch/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/790dc3a0098d99a1d07b234a1cf0e3d13e364e05/hub/2023/06/05/b22d8139-3626-46a0-ad9d-7a4d6366ec40/img-6172.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-06-05T21:40:00Z",
+          "content": "After getting some hands-on time with the new 15-inch MacBook Air, introduced at WWDC 2023, I can safely say that it feels like... a slightly bigger 13-inch MacBook Air. And to me, that's a good thin… [+3512 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Gael Fashingbauer Cooper",
+          "title": "iPhone Will Let You Set a Custom Image or Memoji for Your Calls With iOS 17 - CNET",
+          "description": "You can set photos, emoji and typography to create a personalized contact poster to represent yourself.",
+          "url": "https://www.cnet.com/tech/services-and-software/iphone-will-let-you-set-a-custom-image-or-memoji-for-your-calls-with-ios-17/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/a07f283356bb59afa370f54e9bd7b75d26ea3c49/hub/2023/06/05/7adc004b-b180-42cd-a1a0-2079d172ce6c/screenshot-2023-06-05-at-10-19-42-am.png?auto=webp&fit=crop&height=675&precrop=2412,1356,x0,y0&width=1200",
+          "publishedAt": "2023-06-05T22:08:17Z",
+          "content": "You'll soon be able to dress up your iPhone calls by setting a customized image that shows up on the receiver's screen when you place a call.\r\nThe feature, unveiled during Apple's WWDC keynote addres… [+1343 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Hartley Charlton",
+          "title": "Apple Unveils M2 Ultra Chip as Most Powerful Apple Silicon Chip Yet",
+          "description": "Apple today revealed the M2 Ultra chip alongside the new Mac Studio and Mac Pro, the most powerful Apple silicon chip to date.\n\n\n\n\n\nThe ‌M2‌ Ultra is based on the ‌M2‌ Max chip that debuted in the refreshed 14- and 16-inch MacBook Air earlier this year. It fe…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-unveils-m2-ultra-chip-as-most-powerful-apple-silicon-chip-yet/",
+          "urlToImage": "https://images.macrumors.com/t/iByXpzWoDV2RqD47EDBuWOkStBw=/1600x/article-new/2023/06/m2-ultra-card.jpg",
+          "publishedAt": "2023-06-05T17:13:14Z",
+          "content": "Apple today revealed the M2 Ultra chip alongside the new Mac Studio and Mac Pro, the most powerful Apple silicon chip to date.\r\nThe ‌M2‌ Ultra is based on the ‌M2‌ Max chip that debuted in the refres… [+394 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple to Provide Developers With Vision Pro Development Kits",
+          "description": "Apple's Vision Pro headset is the company's first new product category since the Apple Watch, and it is unlike any other Apple device. It runs an operating system called visionOS, and developers will need to create augmented and virtual reality apps specifica…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-vision-pro-developer-kits/",
+          "urlToImage": "https://images.macrumors.com/t/non389abQvUbtCNIpdgiAoIRk3A=/3840x/article-new/2023/06/Apple-Vision-Pro-glass.jpg",
+          "publishedAt": "2023-06-05T22:57:56Z",
+          "content": "Apple's Vision Pro headset is the company's first new product category since the Apple Watch, and it is unlike any other Apple device. It runs an operating system called visionOS, and developers will… [+1743 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "watchOS 10 Compatible With watchOS Series 4 and Later, iPhone XS/XR or Later Also Required",
+          "description": "The new watchOS 10 update that is coming later this year will work with all versions of the Apple Watch that were able to run watchOS 9, according to Apple's ‌watchOS 10‌ preview site. \n\n\n\n\n\nThe update is compatible with the Apple Watch Series 4 and later, wi…",
+          "url": "https://www.macrumors.com/2023/06/05/watchos-10-compatibility/",
+          "urlToImage": "https://images.macrumors.com/t/6u_LI_itQQ_6hfVYZQIAN3nhFPw=/2000x/article-new/2023/06/watchos-10-1.jpg",
+          "publishedAt": "2023-06-05T19:33:31Z",
+          "content": "The new watchOS 10 update that is coming later this year will work with all versions of the Apple Watch that were able to run watchOS 9, according to Apple's ‌watchOS 10‌ preview site. \r\nThe update i… [+455 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "tvOS 17 Lets You Use Your iPhone to Find a Lost Siri Remote",
+          "description": "Prior to the launch of the latest Apple TV 4K, there were rumors that Apple planned to build Find My functionality into the Siri Remote to make it easier to find. That never happened, but Apple is introducing a similar location function for the ‌Siri‌ Remote …",
+          "url": "https://www.macrumors.com/2023/06/05/tvos-17-find-lost-remote/",
+          "urlToImage": "https://images.macrumors.com/t/H1X27wfmqqKWlrNbXlqJqsZkkns=/2113x/article-new/2023/06/siri-remote-location.jpg",
+          "publishedAt": "2023-06-05T20:55:18Z",
+          "content": "Prior to the launch of the latest Apple TV 4K, there were rumors that Apple planned to build Find My functionality into the Siri Remote to make it easier to find. That never happened, but Apple is in… [+1033 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple Releases Studio Display 17 Firmware Beta",
+          "description": "Following the keynote event that saw the introduction of new Macs, Apple today released a Studio Display firmware beta that is available to developers. \n\n\n\n\n\nAll Studio Display models are able to receive over-the-air firmware updates, but this firmware update…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-releases-studio-display-17-firmware-beta/",
+          "urlToImage": "https://images.macrumors.com/t/iXPd1H5IC6TMnWWuRHItlsBuG4g=/2250x/article-new/2022/03/apple-studio-display-blue.jpg",
+          "publishedAt": "2023-06-05T19:44:52Z",
+          "content": "Following the keynote event that saw the introduction of new Macs, Apple today released a Studio Display firmware beta that is available to developers. \r\nAll Studio Display models are able to receive… [+340 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple Releases Beta Firmware Update for AirPods",
+          "description": "Following today's keynote event, Apple has released a beta firmware update that is limited to developers, with the software adding some of the new features that were announced on stage.\n\n\n\n\n\nThere's a new Adaptive Audio feature for the AirPods that combines T…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-firmware-beta-airpods/",
+          "urlToImage": "https://images.macrumors.com/t/SAAWx04Grrbz0bMrZatT3jAIh0s=/2500x/article-new/2023/03/airpods-pro-2-purple.jpg",
+          "publishedAt": "2023-06-05T19:26:43Z",
+          "content": "Following today's keynote event, Apple has released a beta firmware update that is limited to developers, with the software adding some of the new features that were announced on stage.\r\nThere's a ne… [+817 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "With M2 Ultra Mac Pro, Apple Completes Apple Silicon Transition and No Longer Sells Intel-Based Macs",
+          "description": "Apple today introduced an Apple silicon version of the Mac Pro that uses the new M2 Ultra chip, and with that update, Apple's transition to Apple silicon is now complete. The first Apple silicon Mac came out in 2020, and three years later, every Mac is using …",
+          "url": "https://www.macrumors.com/2023/06/05/m2-ultra-mac-pro-apple-silicon-complete/",
+          "urlToImage": "https://images.macrumors.com/t/iByXpzWoDV2RqD47EDBuWOkStBw=/1600x/article-new/2023/06/m2-ultra-card.jpg",
+          "publishedAt": "2023-06-05T21:08:07Z",
+          "content": "Apple today introduced an Apple silicon version of the Mac Pro that uses the new M2 Ultra chip, and with that update, Apple's transition to Apple silicon is now complete. The first Apple silicon Mac … [+688 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "Apple Announces New Mac Studio With M2 Max and M2 Ultra Chips",
+          "description": "Apple today announced new Mac Studio models with M2 Max and M2 Ultra chips.\n\n\n\n\n\nThe new M2 Ultra chip features a 24-core CPU, a 76-core GPU, a 32-core Neural Engine, and support for up to 192GB of unified memory, according to Apple.\n\n\n\nMore details to follow…",
+          "url": "https://www.macrumors.com/2023/06/05/mac-studio-m2-max-m2-ultra-chips/",
+          "urlToImage": "https://images.macrumors.com/t/0OHb74rPH591pF5d407FENhe4jU=/2350x/article-new/2022/03/Mac-Studio-Display-Feature-Pink.jpg",
+          "publishedAt": "2023-06-05T17:13:20Z",
+          "content": "Apple today announced new Mac Studio models with M2 Max and M2 Ultra chips.\r\nThe new M2 Ultra chip features a 24-core CPU, a 76-core GPU, a 32-core Neural Engine, and support for up to 192GB of unifi… [+181 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Hartley Charlton",
+          "title": "Apple Announces iOS 17 With New Communication and Sharing Features",
+          "description": "Apple today announced iOS 17, the next major operating system for the iPhone.\n\n\n\n\n\n\n\n‌iOS 17‌ features personalized contact posters with photos, memojis, and eye-catching typography that appear during calls and in the updated address book. The update also bri…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-announces-ios-17-with-new-communication-and-sharing-features/",
+          "urlToImage": "https://images.macrumors.com/t/vJyNB6bb4XDFLTgaR7DN1GCDumA=/1600x/article-new/2023/06/iOS-17.jpg",
+          "publishedAt": "2023-06-05T17:22:14Z",
+          "content": "Apple today announced iOS 17, the next major operating system for the iPhone, introducing new communication and sharing features.\r\n‌iOS 17‌ features personalized contact posters with photos, memojis,… [+560 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "Apple Introduces New Mac Pro With M2 Ultra Chip, Available to Order Starting Today",
+          "description": "Apple today updated its Mac Pro desktop tower with the all-new M2 Ultra chip, which features a 24-core CPU, up to a 76-core GPU, and support for up to 192GB of memory. Apple says the new Mac Pro is up to 3x faster than the fastest Intel-based Mac Pro.\n\n\n\n\n\nTh…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-introduces-new-mac-pro-with-m2-ultra-chip-available-to-order-starting-today/",
+          "urlToImage": "https://images.macrumors.com/t/ZnWCapdza5uZM08uiZjE7HAH_qI=/2500x/article-new/2023/01/Mac-Pro-Feature-Teal.jpg",
+          "publishedAt": "2023-06-05T17:23:10Z",
+          "content": "Apple today updated its Mac Pro desktop tower with the all-new M2 Ultra chip, which features a 24-core CPU, up to a 76-core GPU, and support for up to 192GB of memory. Apple says the new Mac Pro is u… [+418 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "Apple Releases New 70W Power Adapter Alongside 15-Inch MacBook Air",
+          "description": "Apple today began selling a new 70W power adapter with a single USB-C port on its online store. Priced at $59, Apple recommends pairing the power adapter with the new 15-inch MacBook Air and various other MacBook Air and MacBook Pro models.\n\n\n\n\n\nFrom the prod…",
+          "url": "https://www.macrumors.com/2023/06/05/apple-new-70w-usb-c-power-adapter/",
+          "urlToImage": "https://images.macrumors.com/t/C7jsbaXPpCTXAeahfYzaMaTGj5Y=/1600x/article-new/2023/06/70W-Apple-Power-Adapter.jpeg",
+          "publishedAt": "2023-06-05T19:18:44Z",
+          "content": "Apple today began selling a new 70W power adapter with a single USB-C port on its online store. Priced at $59, Apple recommends pairing the power adapter with the new 15-inch MacBook Air and various … [+671 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "iOS 17 Compatible With iPhone XS and Newer, Available in Beta Today",
+          "description": "Apple today announced that iOS 17 is compatible with the iPhone XS and newer, meaning that support has been dropped for the iPhone 8, iPhone 8 Plus, and iPhone X. The first iOS 17 beta will be available to members of Apple's Developer Program for testing late…",
+          "url": "https://www.macrumors.com/2023/06/05/ios-17-compatible-devices/",
+          "urlToImage": "https://images.macrumors.com/t/1Cc_6-HuM2hg4Hv1uAHdxCnrywY=/2500x/article-new/2023/01/iOS-17-Icon-Mock-Feature-Feature.jpg",
+          "publishedAt": "2023-06-05T18:35:19Z",
+          "content": "Apple today announced that iOS 17 is compatible with the iPhone XS and newer, meaning that support has been dropped for the iPhone 8, iPhone 8 Plus, and iPhone X. The first iOS 17 beta will be availa… [+445 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "New Mac Pro Features Upgradeable SSD, Apple Selling 2TB, 4TB, and 8TB SSD Kits",
+          "description": "Following the introduction of the Apple silicon Mac Pro, Apple today added SSD upgrade kits to its online store. The kits offer 2TB, 4TB, and 8TB of storage space for $1,000, $1,600, and $2,800, respectively.\n\n\n\n\n\nThe kits feature two 1TB SSDs, two 2TB SSDs, …",
+          "url": "https://www.macrumors.com/2023/06/05/mac-pro-2023-ssd-upgrade-kits/",
+          "urlToImage": "https://images.macrumors.com/t/oRiOgabg-pyLmguZRVYmePRsDIg=/1600x/article-new/2023/06/mac-pro-ssd.jpg",
+          "publishedAt": "2023-06-05T19:19:36Z",
+          "content": "Following the introduction of the Apple silicon Mac Pro, Apple today added SSD upgrade kits to its online store. The kits offer 2TB, 4TB, and 8TB of storage space for $1,000, $1,600, and $2,800, resp… [+317 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Jordan Golson",
+          "title": "WWDC 2023 Apple Event Live Keynote Coverage: Headset, iOS 17, New Macs, and More",
+          "description": "Apple's Worldwide Developers Conference (WWDC) starts today with the traditional keynote kicking things off at 10:00 a.m. Pacific Time. MacRumors is on hand for the event and we'll be sharing details and our thoughts throughout the day.\n\n\n\n\n\nWe're expecting t…",
+          "url": "https://www.macrumors.com/2023/06/05/wwdc-2023-live-coverage/",
+          "urlToImage": "https://images.macrumors.com/t/39oglruq1lGI1RYgX161BOoTFIg=/1600x/article-new/2023/06/WWDC23-Live-Coverage-Article.jpg",
+          "publishedAt": "2023-06-05T15:50:15Z",
+          "content": "Apple's Worldwide Developers Conference (WWDC) starts today with the traditional keynote kicking things off at 10:00 a.m. Pacific Time. MacRumors is on hand for the event and we'll be sharing details… [+795 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Apple Store Back Up With Preorders for 15-Inch MacBook Air, Mac Pro and Mac Studio",
+          "description": "After today's keynote event that saw the introduction of iOS 17, the AR/VR headset, a range of new Macs, and more, Apple has brought its online store back up so that customers can begin preordering the new devices. \n\n\n\n\n\nApple's 15-inch MacBook Air is priced …",
+          "url": "https://www.macrumors.com/2023/06/05/apple-store-mac-preorders/",
+          "urlToImage": "https://images.macrumors.com/t/RNO9HIAqqXrARt8IRotGTpRyPno=/1600x/article-new/2023/06/macbook-air-15.jpg",
+          "publishedAt": "2023-06-05T19:07:19Z",
+          "content": "After today's keynote event that saw the introduction of iOS 17, the AR/VR headset, a range of new Macs, and more, Apple has brought its online store back up so that customers can begin preordering t… [+446 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "iOS 17 Promises to Dramatically Improve iPhone's Autocorrect",
+          "description": "Apple today previewed iOS 17 for the iPhone, and one of the key new features coming with the update is improved autocorrect functionality.\n\n\n\n\n\nApple says iOS 17 includes a state-of-the-art language model for word prediction that will greatly improve autocorr…",
+          "url": "https://www.macrumors.com/2023/06/05/ios-17-improved-autocorrect/",
+          "urlToImage": "https://images.macrumors.com/t/o5c06GsQ_4fVq24UPhNp3QyRej4=/1600x/article-new/2023/06/iOS-17-Autocorrect.jpg",
+          "publishedAt": "2023-06-05T21:43:57Z",
+          "content": "Apple today previewed iOS 17 for the iPhone, and one of the key new features coming with the update is improved autocorrect functionality.\r\nApple says iOS 17 includes a state-of-the-art language mode… [+1032 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Joe Rossignol",
+          "title": "macOS Sonoma Drops Support for These Macs",
+          "description": "Apple today previewed macOS Sonoma, its latest operating system for the Mac. Available in beta today and launching in the fall, macOS Sonoma drops support for a handful of Mac models compared to macOS Ventura, according to Apple's website.\n\n\n\n\n\nSpecifically, …",
+          "url": "https://www.macrumors.com/2023/06/05/macos-sonoma-compatible-macs/",
+          "urlToImage": "https://images.macrumors.com/t/jb2pT0q8-QInE06p3krpDZ876Go=/1600x/article-new/2023/06/macOS-Sonoma-Macs.jpg",
+          "publishedAt": "2023-06-05T19:47:22Z",
+          "content": "Apple today previewed macOS Sonoma, its latest operating system for the Mac. Available in beta today and launching in the fall, macOS Sonoma drops support for a handful of Mac models compared to macO… [+549 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "iOS 17 Locks Your Safari Private Browsing Behind Face ID",
+          "description": "Apple is enhancing the security of Safari in iOS 17, and private browsing now requires Face ID authentication or a passcode to access. If you open up a private browsing window in Safari, you will need to authenticate with ‌Face ID‌.\n\n\n\n\n\nThat means someone wh…",
+          "url": "https://www.macrumors.com/2023/06/05/ios-17-safari-private-browsing-face-id/",
+          "urlToImage": "https://images.macrumors.com/t/x5KaZWCazQwNMBqQTcNNIxrIio8=/2000x/article-new/2023/06/safari-private-browsing-ios-17.jpg",
+          "publishedAt": "2023-06-05T22:04:22Z",
+          "content": "Apple is enhancing the security of Safari in iOS 17, and private browsing now requires Face ID authentication or a passcode to access. If you open up a private browsing window in Safari, you will nee… [+978 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "iOS 17's StandBy Mode Turns a Charging iPhone Into a Home Hub",
+          "description": "Apple in iOS 17 is introducing StandBy mode, which is a new display experience designed for a charging iPhone that's placed in a horizontal orientation. An ‌iPhone‌ in this position is able to display an array of full-screen widgets, turning it into a useful …",
+          "url": "https://www.macrumors.com/2023/06/05/ios-17-standby-mode/",
+          "urlToImage": "https://images.macrumors.com/t/4bl8BM7CBSKTH7Ym9wnvlhwJaEo=/3070x/article-new/2023/06/standby-mode-1.jpg",
+          "publishedAt": "2023-06-05T21:42:56Z",
+          "content": "Apple in iOS 17 is introducing StandBy mode, which is a new display experience designed for a charging iPhone that's placed in a horizontal orientation. An ‌iPhone‌ in this position is able to displa… [+1447 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Slashdot.org"
+          },
+          "author": "msmash",
+          "title": "Apple Unveils M2 Ultra Processor",
+          "description": "Apple announced the M2 Ultra processor, a new chip for its Mac Studio workstation for professional users. From a report: The chip has 134 transistors and 24 central processing unit (CPU) cores with 20% faster performance. It has up to 76 graphics processing u…",
+          "url": "https://apple.slashdot.org/story/23/06/05/1749210/apple-unveils-m2-ultra-processor",
+          "urlToImage": "https://a.fsdn.com/sd/topics/apple_64.png",
+          "publishedAt": "2023-06-05T18:00:00Z",
+          "content": "The chip has 134 transistors and 24 central processing unit (CPU) cores with 20% faster performance. It has up to 76 graphics processing unit (GPU) cores at up to 30% faster performance. Apple made t… [+621 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Slashdot.org"
+          },
+          "author": "msmash",
+          "title": "Google Trials Passwordless Login Across Workspace and Cloud Accounts",
+          "description": "Google has taken a significant step toward a passwordless future with the start of an open beta for passkeys on Workspace accounts. From a report: Starting today, June 5th, over 9 million organizations can allow their users to sign in to a Google Workspace or…",
+          "url": "https://tech.slashdot.org/story/23/06/05/1451226/google-trials-passwordless-login-across-workspace-and-cloud-accounts",
+          "urlToImage": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+          "publishedAt": "2023-06-05T14:51:00Z",
+          "content": "Starting today, June 5th, over 9 million organizations can allow their users to sign in to a Google Workspace or Google Cloud account using a passkey instead of their usual passwords. Passkeys are a … [+575 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Nicholas Carlson",
+          "title": "Apple sure kicked Meta's butt today, right?",
+          "description": "Apple's new Vision Pro appears to have a lot more going for it than Meta's headset does.",
+          "url": "https://www.businessinsider.com/why-apples-vision-pro-beats-metas-headset-2023-6",
+          "urlToImage": "https://i.insider.com/647e440540bf000019fa445e?width=1200&format=jpeg",
+          "publishedAt": "2023-06-05T20:58:02Z",
+          "content": "Facebook CEO Mark Zuckerberg on stage at an Oculus developers conference in 2016.Glenn Chapmann/AFP via Getty Images\r\n<ul><li>Apple finally released its new headset Monday.</li><li>It sure seems a lo… [+4700 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Nicholas Carlson",
+          "title": "16 years ago, people spent days in lines around the block to buy iPhones. Apple is announcing a new gadget today and no one seems to care.",
+          "description": "Did you even know, before you opened this post, that today, Apple is launching another massive new product?",
+          "url": "https://www.businessinsider.com/apple-headset-hype-below-iphone-low-sales-expected-2023-6",
+          "urlToImage": "https://i.insider.com/647e025740bf000019fa3386?width=1200&format=jpeg",
+          "publishedAt": "2023-06-05T15:35:48Z",
+          "content": "Remember scenes like this?AP Photo/John Minchillo\r\n<ul><li>New Apple products used to be a cultural moment.</li><li>Today, Apple is launching itself into a whole new area of gadgets.</li><li>No one s… [+2669 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Will Gendron",
+          "title": "Parents are going to love the new 'Check In' feature in Apple's iOS 17",
+          "description": "During its WWDC event, Apple introduced a new safety location-sharing feature for its upcoming iOS 17 iPhone operating system.",
+          "url": "https://www.businessinsider.com/ios-17s-new-check-in-feature-great-for-parents-2023-6",
+          "urlToImage": "https://i.insider.com/647e21cb40bf000019fa3b20?width=1200&format=jpeg",
+          "publishedAt": "2023-06-05T18:49:29Z",
+          "content": "iOS 17's new \"Check In\" feature will allow people to see real-time updates during commutesApple\r\n<ul>\n<li>Apple's WWDC 2023 kicked off on Monday, with iOS 17 among the big announcements.</li>\n<li>The… [+1761 chars]"
+      }
+  ]
+}
