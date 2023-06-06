@@ -1,11 +1,11 @@
 import React from 'react';
 
-const ArticlePage = () => {
-  
+const ArticlePage = ({ article }) => {
+  console.log(article)
 
   return (
     <div>
-      
+      <h1>Article {article.id}</h1>
     </div>
   );
 }

@@ -1,10 +1,9 @@
 import React from 'react';
 import ArticleTile from '../ArticleTile/ArticleTile';
-import articlesData from '../../data/articles-data.json';
 
-const Home = () => {
+const Home = ({ articles }) => {
 
-  const tiles = articlesData.articles.map((article, i) => {
+  const tiles = articles.map((article, i) => {
     return (
       <ArticleTile key={article.id + "-" + i} articleData={article} />
     );
