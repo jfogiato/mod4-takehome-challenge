@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const ArticleTile = ({ articleData }) => {
-  const { title, description, urlToImage, publishedAt } = articleData;
+  const { title, description, urlToImage, publishedAt, url } = articleData;
   const date = new Date(publishedAt).toString().split(' ').slice(0, 4).join(' ');
 
   return (
