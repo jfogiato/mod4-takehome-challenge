@@ -16,15 +16,27 @@ function App() {
   });
 
   const [articles, setArticles] = useState(updatedArticles);
+  const [filteredArticles, setFilteredArticles] = useState(articles);
+
+  const searchArticles = searchTerm => {
+    if (!searchTerm) {
+      setFilteredArticles(articles);
+    } else {
+      const filteredArticles = articles.filter(article => {
+        return article.title.toLowerCase().includes(searchTerm.toLowerCase());
+      });
+      setFilteredArticles(filteredArticles);
+    }
+  }
 
   return (
     <>
-      <NavBar />
+      <NavBar searchArticles={searchArticles}/>
       <Route path='/articles/:id' render={({ match }) => {
         const article = articles.find(art => art.id === parseInt(match.params.id));
         return <ArticlePage article={article} />
       }} />
-      <Route exact path="/" render={() => <Home articles={articles}/>}/>
+      <Route exact path="/" render={() => <Home articles={filteredArticles}/>}/>
     </>
   );
 }
