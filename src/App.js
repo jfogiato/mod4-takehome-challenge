@@ -4,7 +4,6 @@ import NavBar from './components/NavBar/NavBar';
 import Home from './components/Home/Home';
 import ArticlePage from './components/ArticlePage/ArticlePage';
 import { Route } from 'react-router-dom';
-import articlesData from './data/articles-data';
 import { getArticles } from './components/utilities/apiCalls';
 
 function App() {

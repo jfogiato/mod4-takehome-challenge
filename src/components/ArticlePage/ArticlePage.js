@@ -1,18 +1,20 @@
 import React from 'react';
 
 const ArticlePage = ({ article }) => {
-  const { title, author, urlToImage, publishedAt, content } = article;
+  const { title, author, urlToImage, publishedAt, content, url } = article;
   const date = new Date(publishedAt).toString().split(' ').slice(0, 4).join(' ');
+  const cleanedContent = content.split('[')[0];
 
   return (
     <div>
-      <div className='container-fluid'>
-        <img src={urlToImage} alt={title} className='img-fluid' />
+      <h1 className='text-center'>{title}</h1>
+      <div className='container-sm'>
+        <img src={urlToImage} alt={title} className='img-fluid mh-10' />
       </div>
-      <h1>{title}</h1>
-      <h2>{author}</h2>
-      <h3>{date}</h3>
-      <p>{content}</p>
+      {(author !== 'Staff Writer' || !author) && <h2>Written by {author}</h2>}
+      <h3 className='font-italic'>{date}</h3>
+      <p>{cleanedContent}</p>
+      <a href={url} target='blank' >Read More {`->`}</a>
     </div>
   );
 }
