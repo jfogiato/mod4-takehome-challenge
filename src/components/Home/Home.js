@@ -4,9 +4,7 @@ import ArticleTile from '../ArticleTile/ArticleTile';
 const Home = ({ articles }) => {
 
   const tiles = articles.map((article, i) => {
-    return (
-      <ArticleTile key={article.id + "-" + i} articleData={article} />
-    );
+    return <ArticleTile key={article.id + "-" + i} articleData={article} />;
   });
 
   return (
