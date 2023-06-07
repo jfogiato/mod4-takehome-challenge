@@ -7,7 +7,7 @@ const ArticleTile = ({ articleData }) => {
 
   return (
     <div className="card m-3" style={{width: "25vw", height: "40vh"}}>
-      <img className="card-img-top" src={urlToImage} alt={title}/>
+      <Link to={`articles/${id}`}><img className="card-img-top" src={urlToImage} alt={title}/></Link>
       <div className="card-body">
         <Link to={`articles/${id}`}><h6 className="card-title text-truncate">{title}</h6></Link>
         <p className="card-text text-truncate">{description}</p>
