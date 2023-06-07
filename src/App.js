@@ -1,22 +1,30 @@
 import './App.css';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import NavBar from './components/NavBar/NavBar';
 import Home from './components/Home/Home';
 import ArticlePage from './components/ArticlePage/ArticlePage';
 import { Route } from 'react-router-dom';
 import articlesData from './data/articles-data';
+import { getArticles } from './components/utilities/apiCalls';
 
 function App() {
-
-  const updatedArticles = articlesData.articles.map((article, i) => {
-    return {
-      ...article,
-      id: i
-    }
-  });
-
-  const [articles, setArticles] = useState(updatedArticles);
+  const [articles, setArticles] = useState([]);
   const [filteredArticles, setFilteredArticles] = useState(articles);
+
+  useEffect(() => {
+    getArticles()
+      .then(data => {
+        const updatedArticles = data.articles.map((article, i) => {
+          return {
+            ...article,
+            id: i
+          }
+        });
+        setArticles(updatedArticles);
+        setFilteredArticles(updatedArticles);
+      })
+      .catch(error => console.log(error));
+  }, []);
 
   const searchArticles = searchTerm => {
     if (!searchTerm) {
