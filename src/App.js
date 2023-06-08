@@ -10,7 +10,7 @@ import { getArticles } from './components/utilities/apiCalls';
 function App() {
   const [articles, setArticles] = useState([]);
   const [filteredArticles, setFilteredArticles] = useState(articles);
-  const [error, setError] = useState('');
+  const [error, setError] = useState({});
 
   useEffect(() => {
     getArticles()
@@ -25,7 +25,7 @@ function App() {
         setFilteredArticles(updatedArticles);
       })
       .catch(error => {
-        setError(error.message)
+        setError(error)
         console.log(error)
       });
   }, []);
@@ -41,6 +41,8 @@ function App() {
     }
   }
 
+  const resetError = () => setError({});
+
   return (
     <>
       <NavBar searchArticles={searchArticles}/>
@@ -49,7 +51,7 @@ function App() {
         return <ArticlePage article={article} />
       }} />
       <Route exact path="/" render={() => <Home articles={filteredArticles}/>}/>
-      <Route path="/404"><Error /></Route> 
+      <Route path="/404"><Error error={error} resetError={resetError} /></Route> 
       <Route path='*'><Redirect to='/404'/></Route>
     </>
   );
