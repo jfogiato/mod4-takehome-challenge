@@ -3,12 +3,14 @@ import React, { useEffect, useState } from 'react';
 import NavBar from './components/NavBar/NavBar';
 import Home from './components/Home/Home';
 import ArticlePage from './components/ArticlePage/ArticlePage';
-import { Route } from 'react-router-dom';
+import Error from './components/Error/Error';
+import { Route, Redirect } from 'react-router-dom';
 import { getArticles } from './components/utilities/apiCalls';
 
 function App() {
   const [articles, setArticles] = useState([]);
   const [filteredArticles, setFilteredArticles] = useState(articles);
+  const [error, setError] = useState('');
 
   useEffect(() => {
     getArticles()
@@ -22,7 +24,10 @@ function App() {
         setArticles(updatedArticles);
         setFilteredArticles(updatedArticles);
       })
-      .catch(error => console.log(error));
+      .catch(error => {
+        setError(error.message)
+        console.log(error)
+      });
   }, []);
 
   const searchArticles = searchTerm => {
@@ -44,6 +49,8 @@ function App() {
         return <ArticlePage article={article} />
       }} />
       <Route exact path="/" render={() => <Home articles={filteredArticles}/>}/>
+      <Route path="/404"><Error /></Route> 
+      <Route path='*'><Redirect to='/404'/></Route>
     </>
   );
 }
