@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# News Reader
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a news reader application that pulls articles from the News API. It allows users to browse and read news articles from various sources. The application provides a list of articles with headlines, images, descriptions (if available), and dates. Each article has a detailed view that displays the headline, image, date, content, and source. The application also includes a search functionality to enhance user experience. It is designed to be usable on desktop, tablet, and mobile devices.
 
-## Available Scripts
+## Table of Contents
+- [News Reader](#news-reader)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Technologies](#technologies)
+  - [Contributors](#contributors)
+  - [Wins](#wins)
+  - [Challenges \& Improvements](#challenges--improvements)
+  - [Set Up](#set-up)
+  
+## Introduction
+This project aims to create a user-friendly news reader application that leverages the News API to fetch and display articles. The application provides a convenient way for users to stay updated with the latest news from various sources. It includes essential features such as a list of articles, a detailed view for each article, and search functionality. The focus is on delivering a clean and intuitive user interface while ensuring efficient data retrieval and smooth navigation.
 
-In the project directory, you can run:
+## Technologies
+The project is built using the following technologies:
 
-### `npm start`
+React JS: A JavaScript library for building user interfaces.
+News API: An API that provides access to news articles from various sources.
+HTML/CSS: Used for structuring and styling the application.
+Bootstrap: A CSS framework used for styling the application.
+JavaScript: The primary programming language for implementing functionality.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contributors
+[Joe Fogiato](https://github.com/jfogiato)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Wins
+- Implementation of the core features, including the article list, detailed view, and search functionality.
+- Responsive design that provides a seamless experience across different devices.
+- Efficient data retrieval using the News API while considering the limitations on the number of requests.
 
-### `npm test`
+## Challenges & Improvements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Limited number of requests from the News API: During development, mock data was used to limit actual API requests. However, live requests are made during demonstration/evaluation to ensure the accuracy and freshness of the news articles.
 
-### `npm run build`
+- Time management: The project was completed within the allocated time frame of approximately 8 hours. However, due to time constraints, certain additional elements or improvements might have been omitted.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Set Up
+To set up the News Reader application, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository from [here](https://github.com/jfogiato/mod4-takehome-challenge).
+2. Install the required dependencies using `npm i`.
+3. Obtain an API key from the News API website (https://newsapi.org) by creating an account.
+4. Replace the placeholder API key in the application code with your actual API key.
+5. Start the application by running the appropriate command (e.g., npm start).
+6. Access the application in your browser at the provided URL.
+   
+*Note: Ensure that you have an active internet connection for the application to retrieve news articles from the News API.*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy reading the latest news with the News Reader application!
